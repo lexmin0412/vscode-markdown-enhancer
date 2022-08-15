@@ -1,0 +1,26 @@
+{
+  "name": "vscode-markdown-enhancer",
+  "version": "0.0.1",
+  "description": "vscode markdown 功能增强",
+  "main": "./ext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"activationEvents": [
+		"onStartupFinished"
+	],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexmin0412/vscode-markdown-enhancer.git"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_media@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexmin0412/vscode-markdown-enhancer/issues"
+  },
+  "homepage": "https://github.com/lexmin0412/vscode-markdown-enhancer#readme"
+}
